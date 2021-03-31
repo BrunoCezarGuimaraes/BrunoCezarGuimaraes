@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá! 👋
+
+- 🔭 Atualmente estou trabalhando no desenvolvimento de minhas habilidades de programação
+- 🌱 Atualmente estou aprendendo mais sobre Angular, Node e Docker
+- 🎓 Meu site de portifolio: https://brunocezarguimaraes.github.io/
+- ⚡ Um fato divertido sobre mim, é que sempre estou em busca de eventos e palestras para poder me desenvolver cada vez mais
 
 <!--
 **BrunoCezarGuimaraes/BrunoCezarGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
