@@ -5,8 +5,8 @@
 - 🎓 Meu site de portifolio: https://brunocezarguimaraes.github.io/
 - ⚡ Um fato divertido sobre mim, é que sempre estou em busca de eventos e palestras para poder me desenvolver cada vez mais
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoCezarGuimaraes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCezarGuimaraes&theme=algolia&show_icons=true)](https://github.com/BrunoCezarGuimaraes/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoCezarGuimaraes&theme=algolia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCezarGuimaraes&theme=algolia&show_icons=true)](https://github.com/BrunoCezarGuimaraes/github-readme-stats&theme=algolia&show_icons=true)
 
 
 
