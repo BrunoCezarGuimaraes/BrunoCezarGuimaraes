@@ -5,8 +5,6 @@
 - 🎓 Meu site de portifolio: https://brunocezarguimaraes.github.io/
 - ⚡ Um fato divertido sobre mim, é que sempre estou em busca de eventos e palestras para poder me desenvolver cada vez mais
 
-![Anurag's github stats]
-
 <!--
 **BrunoCezarGuimaraes/BrunoCezarGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
