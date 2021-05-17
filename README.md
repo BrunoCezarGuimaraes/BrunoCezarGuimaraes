@@ -6,6 +6,8 @@
 - ⚡ Um fato divertido sobre mim, é que sempre estou em busca de eventos e palestras para poder me desenvolver cada vez mais
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoCezarGuimaraes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCezarGuimaraes)](https://github.com/BrunoCezarGuimaraes/github-readme-stats)
+
 
 
 <!--
