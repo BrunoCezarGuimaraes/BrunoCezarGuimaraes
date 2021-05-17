@@ -5,7 +5,7 @@
 - 🎓 Meu site de portifolio: https://brunocezarguimaraes.github.io/
 - ⚡ Um fato divertido sobre mim, é que sempre estou em busca de eventos e palestras para poder me desenvolver cada vez mais
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoCezarGuimarães)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrunoCezarGuimaraes)
 
 
 <!--
