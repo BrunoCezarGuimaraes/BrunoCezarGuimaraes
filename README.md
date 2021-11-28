@@ -20,13 +20,13 @@
 ```
 ## Oque tenho
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>- [Linkedin] Profile (https://www.linkedin.com/in/bruno-cezar-guimar%C3%A3es-099058163);
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>- [Github] Profile (https://github.com/BrunoCezarGuimaraes);
-
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>- [Twitter] Profile (https://twitter.com/DevBruno103);
-
-
+- [Linkedin] Profile (https://www.linkedin.com/in/bruno-cezar-guimar%C3%A3es-099058163);
+- [Github] Profile (https://github.com/BrunoCezarGuimaraes);
+- [Twitter] Profile (https://twitter.com/DevBruno103);
 
 ## ⚙️ &nbsp;GitHub Stats
 
