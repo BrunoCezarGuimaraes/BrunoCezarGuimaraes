@@ -25,7 +25,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoCezarGuimaraes)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevBruno103)
 
-### Oque ja experimentei em minha jornada ate agora {
+# Oque ja experimentei em minha jornada ate agora {
 
 ## Linguagens
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -90,7 +90,7 @@
  <a href="https://github.com/BrunoCezarGuimaraes">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoCezarGuimaraes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCezarGuimaraes&layout=compact&langs_count=7&theme=react"/>
- <img height="170em" src="**https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCezarGuimaraes&layout=compact&langs_count=7&theme=react"/>
+ <img height="170em" src="**https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCezarGuimaraes"/>
 </div>
 
 
