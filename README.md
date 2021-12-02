@@ -20,13 +20,10 @@
 ```
 ## Oque tenho
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-
-- [Linkedin] Profile (https://www.linkedin.com/in/bruno-cezar-guimar%C3%A3es-099058163);
-- [Github] Profile (https://github.com/BrunoCezarGuimaraes);
-- [Twitter] Profile (https://twitter.com/DevBruno103);
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9e59db?style=for-the-badge)](https://brunocezarguimaraes.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cezar-guimar%C3%A3es-099058163)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoCezarGuimaraes)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevBruno103)
 
 ## ⚙️ &nbsp;GitHub Stats
 
