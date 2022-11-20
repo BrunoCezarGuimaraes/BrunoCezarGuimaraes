@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de minhas habilidades de programação, algo que nunca acabara mas por isso sempre ficarei melhorando cada vez mais!
 - 🌱 Ja experimentei um pouco de tudo, principalmente front-end como Vue, React, Angular, Sass e muito mais!
-- 🎓 Meu site de portifolio: https://brunocezarguimaraes.github.io/
+- 🎓 Meu site de portifolio: [https://brunocezarguimaraes.github.io/](https://brunocezarguimaraes.github.io/ReactPortfolio/)
 - ⚡ Um fato divertido sobre mim, é que sempre estou em busca de eventos e palestras para poder me desenvolver cada vez mais.
 
 ```
